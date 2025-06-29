@@ -191,14 +191,19 @@ user_info"}
 
 ```json
 {
-    "date": "2024-10-27",
-    "archived_user_count": 5,
+    "date": "2025-03-30",
+    "archived_user_count": 10,
     "archived_user_ids": [
-        123,
-        124,
-        125,
+        127,
         126,
-        127
+        131,
+        124,
+        129,
+        132,
+        125,
+        128,
+        123,
+        130
     ]
 }
 ```
